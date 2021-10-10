@@ -1,4 +1,3 @@
-from os
 from pathlib import Path
 
 class Site:
