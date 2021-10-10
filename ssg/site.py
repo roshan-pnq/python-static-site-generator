@@ -1,6 +1,5 @@
-from os import mkdir
+from os
 from pathlib import Path
-
 
 class Site:
 
@@ -9,8 +8,8 @@ class Site:
         self.dest = Path(dest)
 
     def create_dir(self, path):
-        directory = self.dest/Path(path).relative_to(self.source)
-        Path(directory).mkdir(parents=True,exist_ok=True)        
+        directory = self.dest/path.relative_to(self.source)
+        directory.mkdir(parents=True,exist_ok=True)        
 
     def build(self):
         self.dest.mkdir(parents=True, exist_ok=True)
