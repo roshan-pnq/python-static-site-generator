@@ -1,0 +1,479 @@
+[33mcommit 430833835b30eec14c4637821c6544bdd7cba21e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Apr 30 14:40:20 2020 -0600
+
+    docs: published
+
+[33mcommit 45a3d12d402e701ae77878da301551b01ef9e4ef[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Apr 22 11:11:15 2020 -0600
+
+    docs: tasks.md update
+
+[33mcommit 3034a52d2556ca8318de144590aef47363f927be[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 12:43:51 2020 -0600
+
+    test: guard fix
+
+[33mcommit 4cc5f66fd44e5018e9f0e4cd6b16445e30480c2b[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 11:58:42 2020 -0600
+
+    tests: add additional solution
+
+[33mcommit bcbc0977a40559b18166471a1723ac1059683dcd[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 11:56:57 2020 -0600
+
+    tests: added solution to test
+
+[33mcommit 46d0278be1fa7c15e57d7fb12a6117b5b8344e68[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 11:53:56 2020 -0600
+
+    tests: add writing to the console
+
+[33mcommit 71418182b04d31da5f7c6ef8f5b42ceafe83fae0[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 10:54:02 2020 -0600
+
+    test: add missing task
+
+[33mcommit e364c53c407ed8d17566b459dadf366a70b80e6b[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 10:36:52 2020 -0600
+
+    test: update check for build method
+
+[33mcommit 64c35f861d435ba9d53f4764fe55e2941c45ca4f[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 10:31:13 2020 -0600
+
+    test: additional tests for scope
+
+[33mcommit 19c29748180c747c6a011af4071fbe7fdc1f7f47[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 10:04:45 2020 -0600
+
+    test: fix tests
+
+[33mcommit 49dd5225f5741f2a4660cfce5431ebcbbcbcc61c[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 25 08:47:40 2020 -0600
+
+    test: fix tag name
+
+[33mcommit 0343b5b4194cd78e4192576b4e5ab7b42e5f9b07[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Mar 20 11:55:50 2020 -0600
+
+    docs(tasks.md): formatting
+
+[33mcommit bc7f5e1d1d62ef3a1ef420b11c73e06c08de3b37[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Mar 19 12:03:22 2020 -0600
+
+    test(module2): allow parens
+
+[33mcommit 999ffa0a11b68665a6906f4d71acd2d604ae1c4e[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Mar 17 10:33:33 2020 -0600
+
+    chore: remove solution
+
+[33mcommit 7f3ef670afe6b00c9e489e3fb52038aade928d1f[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Mar 12 11:44:36 2020 -0600
+
+    docs(tasks.md): Formatting
+
+[33mcommit c0bab624fcd76e5bc1c485f68897b36463667fb7[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Mar 12 11:09:30 2020 -0600
+
+    docs(tasks.md): M04 formatting
+
+[33mcommit 53e678634bdd47b31b811e0278288ad7b32840a5[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Mar 12 11:05:40 2020 -0600
+
+    docs(tasks.md): M04 final
+
+[33mcommit 28bdebf9dc7d7c74960dd083319c33d72561b1ca[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 11 16:43:24 2020 -0600
+
+    docs(tasks.md): M03 final
+
+[33mcommit e17824036e9aac0cfd38181020b618bf542a41b3[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 11 15:17:34 2020 -0600
+
+    docs(tasks.md): M03T02
+
+[33mcommit 29c3677f0a1da08fa3c2daa96f9f1e11a260b2cd[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Mar 11 14:23:50 2020 -0600
+
+    docs(tasks.md): module3 start
+
+[33mcommit 46a3062af562ecf322990d5edfb3798b5ac2ee05[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Mar 10 15:42:44 2020 -0600
+
+    docs(tasks.md): M02-3
+
+[33mcommit 8639fb5e61b19fe69e7baf7a14373d8a985a9e16[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Mar 10 09:15:34 2020 -0600
+
+    docs(tasks.md): initial formatting
+
+[33mcommit fa01faa901d767d984d6ca4a72c3cbad93810027[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Mar 6 14:33:03 2020 -0700
+
+    content: markdown fix
+
+[33mcommit 5d50e6aa6134f85c63a0751f4fd9391fe5eb37ad[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Mar 3 16:56:49 2020 -0700
+
+    test: module4 complete
+
+[33mcommit 22fb4a62481bd39b8c0a2bb562395cd8e5df57ec[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Mar 2 16:45:50 2020 -0700
+
+    test: module3 t6
+
+[33mcommit 8e81dc138f71719a95a6f68584116c0841b7fe7c[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Mar 2 14:13:11 2020 -0700
+
+    test: module t14
+
+[33mcommit 120f51eddbf53910dd9be4dd3945c1e716621adf[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Mar 2 11:34:41 2020 -0700
+
+    test: module2 t10
+
+[33mcommit 22312080b96908ba546feb7e28041dc27d294136[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Feb 27 15:16:09 2020 -0700
+
+    test: module tests t7
+
+[33mcommit 08c94f28c17aed32e18a2a4a5740a5e019fc6aee[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Feb 26 16:27:54 2020 -0700
+
+    tests: simplify find statements
+
+[33mcommit 6c94703670296fadfb2fa6f225dd6f07d34e9c09[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Feb 21 11:28:39 2020 -0700
+
+    tests: module1 tests
+
+[33mcommit ec5c7ed29fdc1f90cc2d51420a0f0924fd1b34e3[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Feb 11 13:54:43 2020 -0700
+
+    chore: remove solution
+
+[33mcommit 0a3ee10a05fc89c1526380ef03feef2cb9d3e5c2[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Feb 11 13:52:39 2020 -0700
+
+    test: module1
+
+[33mcommit 50deb24c5b29f3e6808ca57bdbe96dfc5d88c3c1[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Feb 10 13:05:11 2020 -0700
+
+    Create .dockerignore
+
+[33mcommit 7d95fe39c8f7afd0a7f9befadaba526c0973ab8e[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Feb 10 12:56:32 2020 -0700
+
+    test: refactor to SourceCode class
+
+[33mcommit b4c28633d5f3cae1eca644115fcb6967c48df6a5[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Feb 7 16:50:05 2020 -0700
+
+    test: test restructure
+
+[33mcommit 1e48a2b6eb7dbe4136361196c7037c554cfe38d4[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Feb 4 15:22:15 2020 -0700
+
+    tests: module1 tests 1-2
+
+[33mcommit 818ad9ceb116dc782edc8acc094dde4270c4c88d[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Feb 4 11:02:37 2020 -0700
+
+    test: import fixture
+
+[33mcommit a02742041ba95aec0b0368763557d8240fe4f1dc[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Feb 3 16:42:22 2020 -0700
+
+    test: code fixtures
+
+[33mcommit b498a071eb9451f19fda65076d0f08cd36a5f47a[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Feb 3 16:08:52 2020 -0700
+
+    test: all code
+
+[33mcommit 468a35364fc12cf50dc0f09d4316040783355ebb[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Feb 3 13:18:54 2020 -0700
+
+    refactor: mkdir
+
+[33mcommit 2e6ffd6ed799e8ba7a60cdac6062fa45d97b1b4b[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Feb 3 13:03:16 2020 -0700
+
+    test: remove module4 tests
+
+[33mcommit 9f9108c545a43b61e65e062f9ea4d48c45633974[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 16:43:28 2020 -0700
+
+    chore: add pytest
+
+[33mcommit 21c47510d0ca05652a5bb23903ac99a55b648824[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 15:38:04 2020 -0700
+
+    feat: switch to typer
+
+[33mcommit c8635d5d98f03e7d91b15af764f03f3a5cfd123c[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 13:50:27 2020 -0700
+
+    chore: formatting and style fixes
+
+[33mcommit 533c9da1bda6c45ec610b09ac9ae74be4548fedf[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 11:25:13 2020 -0700
+
+    feat: type annotations
+
+[33mcommit 2b40e7e3ff215098cf95e8abff36c6da6c7c4435[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 10:38:19 2020 -0700
+
+    chore: add mypy
+
+[33mcommit dcf204ace7d195faf90d09cf762fca1d2ad71788[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 10:17:45 2020 -0700
+
+    chore: change imports
+
+[33mcommit 69889d5cbd4f061a8531fdd243ba521d987d2a03[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 10:09:16 2020 -0700
+
+    chore: formatting
+
+[33mcommit 0a432189668b9058d192c0e227290c8143c8e65b[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 09:32:18 2020 -0700
+
+    docs:(tasks.md): module name changes
+
+[33mcommit 10131bf51d95a98706d2b9a6002d9f2e5b033aac[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 09:30:29 2020 -0700
+
+    chore: remove module name
+
+[33mcommit c0894025796f5e19a6e890d8ab322fc3a6d958a7[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 09:29:55 2020 -0700
+
+    docs:(tasks.md): module changes
+
+[33mcommit 3a339f6f083296923394b4468a3635c8075268bd[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 09:22:52 2020 -0700
+
+    chore: escape double underscore
+
+[33mcommit ce0ba6e05ca3d8090051a455d4e54b9e9fe29094[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 09:21:27 2020 -0700
+
+    docs(tasks.md): list formatting
+
+[33mcommit 4e6f45f0c03f88e281a652403be953cf95ed575a[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Fri Jan 31 09:20:09 2020 -0700
+
+    chore: formatting
+
+[33mcommit fdaab15a98f61f3d1537c52c4a793f07fd6cbaeb[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Jan 30 16:51:34 2020 -0700
+
+    feat: static method
+
+[33mcommit 9b98cfb012a57bc9abbb13614e59a1feedd6b123[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Jan 30 16:31:12 2020 -0700
+
+    refactor: remove frontmatter class
+
+[33mcommit 128ae99ccac284c9348a31649b3a43b228d3eacd[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Jan 30 14:18:30 2020 -0700
+
+    feat: Content subclasses Mapping
+
+[33mcommit a6e0b81eb7ed44e2117ff333ec97081b88584271[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Jan 30 10:28:29 2020 -0700
+
+    chore: objective status
+
+[33mcommit d6a0213b6218c6a9dd251329d7280be9abb0a28f[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Jan 29 13:20:45 2020 -0700
+
+    fix: double underscore
+
+[33mcommit 1779682ac46afed7c8c87d977ef091c7a621a936[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 14:03:36 2020 -0700
+
+    Update tasks.md
+
+[33mcommit 5e140cefecf135a8d699bf8c76e84ab7ddb7111c[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 14:01:24 2020 -0700
+
+    docs: add objectives
+
+[33mcommit 1e4eba8da44dfb16b37b03a2ad0175ea32967df9[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 13:34:09 2020 -0700
+
+    fix: formatting
+
+[33mcommit 080fc8a14730c42a8ee9aaa8ef4aeb72127579a3[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 13:28:01 2020 -0700
+
+    fix: specific content
+
+[33mcommit 526901d6a9fc880949bd7ce03b6313dc55fc9372[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 13:18:26 2020 -0700
+
+    fix: remove print
+
+[33mcommit c4c64ae6043d5975bc9d271ac8a573f377b88163[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 13:15:13 2020 -0700
+
+    fix: class representations
+
+[33mcommit bde1c4d6595195bb41ff8f1a038c5eac89ef3af2[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 12:42:42 2020 -0700
+
+    fix: test utils
+
+[33mcommit f6dec8b22eaddf43f964dbdf9b8a65c1f58c08e7[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 11:32:20 2020 -0700
+
+    test: placeholders
+
+[33mcommit 070a4db2a5643ae8a400e5653e3b50f565b26be3[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Tue Jan 28 09:55:21 2020 -0700
+
+    docs: include overview
+
+[33mcommit 7db5da341d4a462a29b59337fe57601aa1fcccc5[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Jan 27 15:56:36 2020 -0700
+
+    chore: readme changes
+
+[33mcommit 4489c13d184610af66091552788cd75cc3a3f9cf[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Jan 27 15:42:30 2020 -0700
+
+    fix: content type
+
+[33mcommit 5115867f1a28256d2bf91f0536925236535be2f5[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Jan 27 13:11:40 2020 -0700
+
+    chore: whitespace
+
+[33mcommit ac7b59a1a0a9e82555f4ab282cad0017f6bed424[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Mon Jan 27 13:10:25 2020 -0700
+
+    feat: content classes
+
+[33mcommit 00d008a7978bb985c6a8af5f21d59685baa319d4[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Jan 23 16:34:31 2020 -0700
+
+    feature: metadata
+
+[33mcommit 20cb39052eba68ba7b69daa6ea19cc35f0ef6b68[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Jan 23 12:58:46 2020 -0700
+
+    feat: frontmatter
+
+[33mcommit 51dd3db645312898daffe34d48628eb5581b6a1d[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Thu Jan 23 11:03:28 2020 -0700
+
+    chore: whitespace
+
+[33mcommit 644bfc770563704bcf8bfb00701c2ed82c353702[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Jan 22 16:23:12 2020 -0700
+
+    feat: content classes
+
+[33mcommit 9d6ce0b7d07ea53c9f0aef666f65230f86d3005c[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Jan 22 13:36:15 2020 -0700
+
+    feat: copy
+
+[33mcommit 1b92190fa4c4a88d7fb64003ca9a9455412f1e06[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Jan 22 12:10:11 2020 -0700
+
+    refactor: command line arguments
+
+[33mcommit 14fe788206fecd6b6e1ce37cd42bd21aa3f049a2[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Jan 22 11:06:55 2020 -0700
+
+    feat: rst parser
+
+[33mcommit 06fe2b04646475a673a9cc4fd9c07c285a8f10de[m
+Author: Tom Bell <tjbell@gmail.com>
+Date:   Wed Jan 22 09:15:46 2020 -0700
+
+    initial commit
